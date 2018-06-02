@@ -1,0 +1,6 @@
+echo "# evaluacion" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cruzleem2/evaluacion.git
+git push -u origin master
